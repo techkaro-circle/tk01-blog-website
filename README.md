@@ -1,7 +1,8 @@
 # Weekly Project - WEEK 01
 Basic Project Guidelines for HTML and CSS
 
-Dated: 26th April 2020*
+**Dated: 26th April 2020**
+**Deadline: 2nd May 2020**
 
 ## Objective
 
@@ -43,7 +44,7 @@ https://www.mybakingaddiction.com/
 https://medium.com/google-developers/
 https://blog.weareknitters.com/
 
-## Steps to be considered while developing your first website
+## Steps to consider while developing your first website
 
 You should never start your project without a clear vision. You can never solve a whole problem directly, it’s essential to break your overall problem into small pieces/steps to work on. There are certain steps that can help you achieve your goal systematically. We are guiding you to think about this website development project into smaller steps. For next projects, you will have to think about them yourself.
 
