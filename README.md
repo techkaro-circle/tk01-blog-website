@@ -40,9 +40,9 @@ Your blog website can be about fashion, cooking, tech news or anything that you 
 
 ### Examples
 
-https://www.mybakingaddiction.com/
-https://medium.com/google-developers/
-https://blog.weareknitters.com/
+- [Baking Blog](https://www.mybakingaddiction.com/)
+- [Technical Blog](https://medium.com/google-developers/)
+- [Art blog](https://blog.weareknitters.com/)
 
 ## Steps to consider while developing your first website
 
