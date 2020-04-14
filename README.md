@@ -63,10 +63,10 @@ Some examples are header, nav, main, article, section, footer, aside, figure etc
 
 **Step 05:**  <br>
 > Image pixel quality is very important in any website. Choose those pictures that do not lose their quality upon changing its height or width.
-We must use copyright free images while development, some of the websites that provide copyright free high quality images are here:
-https://pixabay.com/
-https://www.pexels.com/
-https://unsplash.com/
+We must use copyright free images while development, some of the websites that provide copyright free high quality images are here: <br>
+- https://pixabay.com/
+- https://www.pexels.com/
+- https://unsplash.com/
 
 **Step 06:**  <br>
 > You can also think of places where you want a list of elements to work with. This will help you manage your code and apply styles in an easier way.
